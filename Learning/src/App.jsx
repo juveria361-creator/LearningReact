@@ -1,6 +1,11 @@
-function App(){
+import React from 'react'
 
-  return "hello guys hiiii"
+function App() {
+  return (
+    <div>
+      
+    </div>
+  )
 }
 
 export default App
