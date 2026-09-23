@@ -4,7 +4,7 @@ import Navebar from './component/Navebar'
 const App = () => {
   return (
     <div>
-      <Navebar />
+      <Navebar/>
       {Card()}
       <Card/>
     </div>
